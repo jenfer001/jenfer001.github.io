@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h2 itemprop="name headline">{{ page.title }}</h2>
+    
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta grey_bg">
+		   <i class="fa fa-user"></i>
+		   {{ page.author }} <span class="liner"></span>
+		   <i class="fa fa-calendar"></i>
+		   {{ page.date | date_to_string }} <span class="liner"></span>
+		   {% for tags in page.tags %}
+		   <i class="fa fa-tag"></i>
+    		<span>{{ tags }}</span>
+  			{% endfor %}
+		   </div>
+	<div class="spacer"></div>
+</article>

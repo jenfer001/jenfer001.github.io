@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+	<div class="container-fluid">
+	<div class="spacer"></div>
+	<div class="row-fluid">
+    	<div class="span8">
+
+        	{{ content }}
+        </div>
+
+      	<div class="span2 leftdiv">
+
+  			<ul class="tags">
+				{% for tag in site.tags %}
+				{% assign t = tag | first %}
+				{% assign posts = tag | last %}
+				{% assign link = t | prepend:'../tag_pages/' %}
+				<li class="list_by_tag"><a href="{{ link }}">{{t | downcase | replace:" ","-" }} ({{ posts | size }})</a></li>
+				{% endfor %}
+			</ul>
+  		</div>
+	</div>
+	</div>
+
+
+    {% include footer.html %}
+  </body>
+
+</html>

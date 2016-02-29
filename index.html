@@ -1,0 +1,10 @@
+---
+layout: wide
+---
+
+{% for page in site.pages %}
+	{% if page.title == "Services" %}
+		{{ page.content }}
+	{% endif %}
+{% endfor %}
+

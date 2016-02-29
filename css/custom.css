@@ -1,0 +1,125 @@
+.spacer {
+	margin-top: 20px;
+}
+
+.margin-shrinker{
+	margin: 4px 0;
+}
+
+.circular{
+ 	border-radius: 500px;
+}
+
+.with-space { 
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+
+	
+.social-bar {
+	background-color: #f5f5f5;
+	padding: 5px;
+}
+
+.serv {
+	list-style-type: none;
+	text-align: center;
+	font-size: 18px;
+	margin: 8px 0;
+}
+
+.center {
+	text-align: center;
+	font-size: 14px;
+	color: #535353;
+	margin: 0; !important
+	}
+
+.servimg {
+	display: block;
+	margin: 0 auto;
+}
+
+.team {
+	text-align: center;
+}
+
+.profile{
+    position: relative;
+    margin: 0 0 20px;
+}
+
+.profile-title {
+	margin: 3px 0 5px 0;
+	color: #b3b3b1;
+	font-size: 14px;
+}
+
+.profile-header {
+	position: absolute;
+}
+
+.jobdesc:before {
+    content: '';
+    width: 25%;
+    height: 3px;
+    background: #dededc;
+    position: absolute;
+    top: 0;
+}
+
+.profile-content {
+    font-size: 14px;
+    padding: 3px 20px 0 0;
+    line-height: 1.4em;
+    margin: 0 0 0 125px;
+    }
+    
+.jobdesc {
+    font-size: 1.2em;
+    margin: 0, 0, 8px, 0;
+    font-weight: 400;
+    color: #535353;
+}
+
+.tags {
+	list-style-type: none;
+}
+
+.list_by_tag{
+	margin: 0;
+}
+
+.leftdiv {
+	border-left: 1px solid #dededc;
+}
+
+.liner {
+	border-left: 1px solid #dededc;
+	margin: 0 10px;
+}
+
+.post_tag_info {
+	list-style-type: none;
+}
+
+.post_tag_info li {
+	display: inline;
+}
+
+.read_more{
+	font-size: 12px;
+	background: #1c5ca0;
+	color: #ffffff;
+	padding: 5px 5px;
+}
+
+.grey_bg {
+	background: #dededc;
+	padding: 5px;
+}
+
+.f_left {
+	float: left;
+	padding-right: 20px;
+}
