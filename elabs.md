@@ -5,13 +5,13 @@ permalink: /elabs/
 group: servs
 ---
 
-#ELabs
+# ELabs
 
 With the high number of Ericsson employees requiring OSS/BSS and other training, and the limited number of technical instructors, it was necessary to investigate a means to satisfy the demand. And so, the concept of self-paced eLabs was developed.
 
 Many classroom-based courses feature instructor lectures followed by extensive hands-on exercises, where students gain valuable experience in using  Ericsson solutions. There are, however, significant costs and logistics associated with classroom-based training ñ travel, accommodation, printing and shipping materials and so on. With self-paced elabs, students benefit from instructor lectures and hands-on practice without any travel requirements. 
 
-##The Process 
+## The Process 
 
 The ELab experience starts with the student registering for a self-paced eLab via ITM. An Administrator sends the student joining instructions, links to any pre-requisite training, and pdfs of the materials. Next, a virtual machine is created for the student. The student can then start the self-paced eLab any time during a specified time window. 
  
@@ -23,5 +23,5 @@ Being self-paced, students can take as long as they wish doing the exercises, th
 
 We hope this short overview has helped you appreciate the value and benefits of self-paced eLabs.
 
-##Examples
+## Examples
 
