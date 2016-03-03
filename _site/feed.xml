@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSS/BSS Education</title>
+    <description>We are the Ericsson OSS BSS eLearning team, a multidisciplinary group if eLearning experts with skills in education, technology, project management and web development.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Mar 2016 15:02:06 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 15:02:06 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>Guiding Principles for Successful eLearning Content</title>
+        <description>&lt;p&gt;In eLearning, content is king! Whether your eLearning content is scripted for narration or on-screen text, content is at its best when it is well-structured with concise, honed messaging for the target audience. Here are some guiding principles for developing successful eLearning course content.&lt;/p&gt;
+
+&lt;h3 id=&quot;consider-the-information-architecture&quot;&gt;1.	Consider the Information Architecture&lt;/h3&gt;
+&lt;p&gt;If you are tasked with developing content for a Sales Overview or Technical Overview course you will be provided with a course content template. This template has been developed following a needs analysis of what our sales people need to know. Follow the content guidelines within the notes section of each slide, as this will ensure the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A logical flow of concise information for our target audience&lt;/li&gt;
+  &lt;li&gt;Avoidance of repeated content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are not following a course template, spend time considering how you can logically structure your messaging for your target audience.&lt;/p&gt;
+
+&lt;p&gt;Good information architecture also contributes to a great user experience for our learner. For example, if our learner wants to know about ‘Business Benefits’, they can open the course and navigate directly to that asset title to view exactly the information they are looking for.&lt;/p&gt;
+
+&lt;h3 id=&quot;hone-your-messaging&quot;&gt;2.	Hone Your Messaging&lt;/h3&gt;
+&lt;p&gt;Hone your messaging and make it concise. The learner will not be able to retain all of the information provided within a single sitting of the course. Focus on the core messages you want to communicate. In eLearning less is more!&lt;/p&gt;
+
+&lt;h3 id=&quot;avoid-communication-conflicts&quot;&gt;3.	Avoid Communication Conflicts&lt;/h3&gt;
+&lt;p&gt;A common problem found in eLearning is communication conflict. This occurs when the onscreen text/graphics show one thing, but the narration discusses something different. This simple conflict of information creates cognitive overload for our learner, as their mind grapples to understand both sets of information! As a rule of thumb for eLearning, the visual graphics or text should always follow the narration.&lt;/p&gt;
+
+&lt;h3 id=&quot;put-key-messaging-in-course-test-questions&quot;&gt;4.	Put Key Messaging in Course Test Questions&lt;/h3&gt;
+&lt;p&gt;When developing course test questions, you should aim to provide a broad set that draws upon the key messaging from the course. It is useful to think of the course test as an opportunity to reiterate and help embed key information from the course. Here are some examples:&lt;/p&gt;
+
+&lt;p&gt;Revenue Manager is a convergent, end-to-end charging and billing system designed using architectural principles that embrace the new business models of the Networked Society.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;True&lt;/li&gt;
+  &lt;li&gt;False&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Select the following architectural pillars on which Revenue Manager is built:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Real-time&lt;/li&gt;
+  &lt;li&gt;Configurable&lt;/li&gt;
+  &lt;li&gt;Open and modular&lt;/li&gt;
+  &lt;li&gt;Automated&lt;/li&gt;
+  &lt;li&gt;Scalable&lt;/li&gt;
+  &lt;li&gt;All of the above&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Within an operator, Ericsson sales people should approach the following people to discuss RM: (Select Three)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CTO&lt;/li&gt;
+  &lt;li&gt;CIO&lt;/li&gt;
+  &lt;li&gt;CSO&lt;/li&gt;
+  &lt;li&gt;CMO&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Developing eLearning content based upon these principles takes time to get right. But these efforts will add up to form a valuable eLearning course that features well-structured and concise messaging for your target audience.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2016/01/12/successful-elearning.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/12/successful-elearning.html</guid>
+        
+        <category>education</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Got an app for that?</title>
+        <description>&lt;p&gt;In 2016 Ericsson ITM students will see the launch of the SuccessFactors app – the mobile version of ITM - and with it a whole new way to access lots of great eLearning content…oh wait that’s not actually true…let’s rewind a little!&lt;/p&gt;
+
+&lt;p&gt;Whilst ITM offers hundreds (and maybe thousands of courses if you include the Skillsoft library) there aren’t many internally developed courses that will be available when the app is launched.  This is because it is actually quite difficult to take your traditional desktop courses (flash-based, fixed-size, bandwidth-hungry) and make them also play perfectly on a tablets or smartphone.&lt;/p&gt;
+
+&lt;p&gt;Apart from the obvious issues with the Adobe Flash plugin not playing very nicely with mobile devices, the main issue with traditional eLearning courses is they were never designed for mobile and so they often don’t display properly on a mobile screen.  Nowadays mobile designers are looking to utilize a responsive layout which adapts and often dynamically changes layout depending on the device being used.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-creating-content-for-mobile-is-difficult-right&quot;&gt;But creating content for mobile is difficult right?&lt;/h3&gt;
+
+&lt;p&gt;Well actually it’s probably easier than you thought.  If you have a template to begin with you only need to be able to produce the content that fits into that template.  For example we have a simple HTML5 wrapper (template) that provides responsive video which can be loaded to ITM, all you need to provide the single video for that wrapper.  We also have a complete mobile responsive UI that is controlled entirely via XML where you literally plug in your video links and assessment questions to create a whole course – it doesn’t come easier than that right?  Here’s an example of this UI in action – you can try this in your browser or on a mobile device.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-how-do-i-create-education-content-for-mobile&quot;&gt;So how do I create education content for mobile?&lt;/h3&gt;
+
+&lt;p&gt;We’ll probably cover other mobile content types in a later blog so unless you are adept at building HTML5 interactions then the quickest content-to-mobile process is going to be video.  The most popular video type that is compatible with most computers, mobile phones and tablets is the MPEG-4 container format (.mp4 video files).&lt;/p&gt;
+
+&lt;p&gt;There are many applications that will create MP4 videos, there are also some that will convert existing video (such as FLV) to MP4 too and lots of these applications are free.  As a team we can guide you in the video production process, including instructional design and storyboards to create an engaging video, the recording/conversion tools to use for the job, the compression rates and codecs you need for efficient video deployment and all the templates and integration requirements required to deploy your videos (and video courses) to ITM.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.ericsson.net/media/t/1_l2uzqykv&quot;&gt;Here’s a brief video tutorial&lt;/a&gt; on one of those simple processes for creating MP4 video from a standard PPT presentation.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2016/01/11/education-mobile.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/11/education-mobile.html</guid>
+        
+        <category>mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What does the End of Flash Mean for the Future of eLearning?</title>
+        <description>&lt;p&gt;In December 2015, Adobe announced that they would be discontinuing the Flash name with the January 2016 release of Creative Cloud, making way for a new name in interactive development and animation, introducing “Adobe Animate”.&lt;/p&gt;
+
+&lt;p&gt;While the new software will still be capable of producing swfs, we expect the new tool to be a more feature rich version of the current Adobe Edge Animate product, a product with firm roots in web standards and html5 outputs.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-this-mean-for-e-learning-development&quot;&gt;What does this mean for e-learning development?&lt;/h3&gt;
+
+&lt;p&gt;E-Learning and Flash have always been best buddies, while web developers quietly relegated Flash to the nostalgia section of the internet, e-learning developers clung on to the feature rich, timeline based production environment, in part because of a lack of alternative options. Particularly with major rapid development tools slow to catch on to the changing standards, Flash development within e-learning was the norm for much longer than in other parts of the web.&lt;/p&gt;
+
+&lt;p&gt;Cross platform development, tracking user activity across multiple devices and personalization are the emerging requirements for the discerning e-learning developer. Increasingly the concept of “take this course, sit this test, did you forget yet?” is becoming irrelevant as technology capable of supporting performance and delivering information is carried in almost every pocket, handbag or briefcase. The way users expect to interact with training is changing and the only way to support this change, is to adapt our technical development methodologies and our approaches to training design.&lt;/p&gt;
+
+&lt;p&gt;We are entering the age of job aides, just in time learning, micro-learning and personalized content, delivered as often via a mobile device as a desktop screen.&lt;/p&gt;
+
+&lt;p&gt;The retirement of Flash provides an impetus for training developers to refresh our design and development practices to better understand and ultimately meet the needs of our consumers.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2016/01/10/end-of-flash.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/10/end-of-flash.html</guid>
+        
+        <category>technology</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Serious Games vs Gamification</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../img/puzzlecube.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In many organisations e-learning from a learners perspective can be a painful experience. Typically you’ll set aside 30 minutes, take a deep breath and sit through what is essentially a voiced-over PowerPoint in Flash format. If you are lucky it may include some small clips of lacklustre video or some stock animations.
+Many organisations are poor at the use and design of PowerPoint presentations for business communications or classroom training, and even if they are pedagogically valid they often fail to efficiently engage learners.
+As such, when it comes to reformatting such presentations into e-learning, the results are often left wanting, and the situation isn’t improved by removing a live presenter and expecting a voice recording to be as effective. Well designed e-learning that engages users is a rarity, and it’s no surprise that the learning industry is starting to join the Gamification bandwagon in search of an alternative way forward.
+As a relatively new and emerging field, it is difficult to find formal consensus over Gamification terms and their strict definitions. For the purposes of this article and my work, I’ve been using three different terms in relation to what we are currently developing in e-learning…..
+Games or Serious Games - Puzzles and simulations or scenarios used to review and test knowledge within a course
+Gaming Environments - A simulated reality aimed at engaging learners
+Gamification - Adding game mechanics to non-game applications, such as badges, leaderboards, levels and achievements
+Games&lt;/p&gt;
+
+&lt;p&gt;Within traditional e-learning the procedure is normally to page through screens of text, graphics and voice-overs in order to get to the multi-
+choice, or SCORM-based, questionnaire at the en If developers want to move away from the SCORM end-of-module-tests, what can be done instead to test knowledge transfer? Increasingly, they are employing the use of Games, and creating puzzles to test the concepts or factual knowledge learned during training. This way the learner is applying knowledge in a more creative, and hopefully, more enjoyable way.d. The whole operation and structure designed  to ensure a ‘Pass’ so the learner can be compliant and get on with their day job. There is little that is motivating or engaging in that all too familiar picture.
+Similarly, if developers wanted to test the overall understanding of a training course, then real world scenarios bring together all of the information content and a encourage the learner to apply it. For example if learners have completed a sales course then a simulation of a sales scenario would be both engaging as well as putting people in a scenario closer to their job role.
+Gaming environments&lt;/p&gt;
+
+&lt;p&gt;In this article I am differentiating between games and gaming environments. Games like puzzles can be included within traditional linear e-learning course, Gaming Environments are simulated realities where the learner is faced with missions, tasks and objectives where learning is the by product rather than the main experience. Games like Minecraft and SimEDU are examples of this. Puzzles may be a component but there are other motivations at play. Informal Learning is a model where people find the information they need at the time they need it, outside the bounds of a traditional course. Search and ye shall find!
+This type of learning has been shown to lead to better retention as that knowledge is immediately applied to their daily work. It also improves engagement as an immediate result and benefit of learning is seen. (Iacovides, Ioanna 2011). Digital games: exploring the relationship between motivation, engagement and informal learning. The Psychology of Education Review, 35(1), pp. 21–24.)
+Creating a Gaming Environment where learners have to research information to complete a puzzle or mission in order to proceed with the game, or to achieve an in-game reward, encourages participant’s attention. (reff) It also means that the information doesn’t need to be in a specifically designed course; the learning resources could be an article, book or video, which has the benefit of lowering the costs of development where these assets already exist.
+Gamification&lt;/p&gt;
+
+&lt;p&gt;Gamification is the use of gameplay mechanics within traditionally non-game situations. This is a popular structure for online gaming and social media games, one of the most prominent being Farmville, where gameplay and rewards are applied to the context of farming an area of land.
+As a tool Gamification has been successfully applied to many other applications and services to improve user retention and engagement. Examples of this include Nike + iPod, Fitocracy, Khan Academy, DevHub (Takahashi 2010), Foursquare
+Rewards are a crucial aspect of gameplay, and can take the form of in-game assets, (such as a special purple cow in farmville, or a new weapon within in a combat game) a badge, or a leader-board or progress bar. These game mechanics are used as a means of both rewarding and encouraging participation: The more you participate the more virtual rewards you get. Crucially, they can also offer the player the ability to continue participating in the game at an enhanced level. For example, a reward may provide them with extra game levels, enhanced firepower, or new and more prestigious livestock.
+As such, game mechanics can function simultaneously to reward previous participation, and to actively facilitate future and ongoing participation and engagement with the game and its contents.
+Playing the Game&lt;/p&gt;
+
+&lt;p&gt;Simulations and puzzles when part of a gaming environment become intrinsic to the game and maintain the flow of the experience for learners (Habgood &amp;amp; Ainsworth). If we can add a social and competitive element through Gamification then it can enhance the experience and increasing the appeal to a bigger audience, as social games have wider appeal than other game types (Gamification by Design, Zichermann &amp;amp; Cunningham). Each of these three techniques individually can enhance an education project but if we can combine them into a more complete strategy then we can add their benefits together. However there seems to be a prevailing opinion that we need to add a fourth ingredient…Fun! If it’s not fun then today’s learners are too experienced in game mechanics and will see through the “chocolate covered broccoli” (Bruckman 1999) approach learning. There are not too many successful educational game titles and the ones that do educate such as Civilisation and Sim City are not pedagogical games, they were not designed to be educational. If education is the focus of the game play it seems for some reason it takes the fun out of the experience!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2016/01/03/games-vs-gamification.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/03/games-vs-gamification.html</guid>
+        
+        <category>gamification</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Does SCORM prevent good education?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../../../img/scorm01.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A couple of weeks ago I went to the Learning and Skills Group Conference in London and attended Megan Bowe’s lecture on the new Tin Can API [1].
+The Tin Can API is a new protocol designed to record a student’s learning experiences and is set to replace the current standard, SCORM, which is used to report learner scores to a Learning Mangement System. Tin Can 1.0 was released on 26th April 2013 and was designed to change the way we record education. Megan Bowe is a strategist with Rustici software, the company who was awarded a grant by ADL [2] to develop the Tin Can API specification.
+Before getting into “Tin Can - the Experience API”, Megan started her lecture by outlining the limitations of SCORM, a topic I am more than familiar with!&lt;/p&gt;
+
+&lt;h3 id=&quot;roll-your-own&quot;&gt;Roll Your Own&lt;/h3&gt;
+
+&lt;p&gt;I have been working with eLearning development and learning management systems for a large part of my career, and when it came time to choose a new LMS a couple of years ago, I was unable to find one that both met our immediate needs and was also flexible enough to develop new features quickly as we needed them. I also took the decision that the license fees which we would pay to a company for a suitable LMS could be better spent on a full-time developer who could build exactly what we needed.
+So we decided to build our own.
+One of the early design discussions was what role SCORM would play in our new LMS. We quickly came to the decision that all content would be created by our team and we wouldn’t ever be purchasing any off-the-shelf content. We also realised that the SCORM standard severely limited our possibilities with regards to interactivity and didn’t really give us the level of feedback we needed.
+So we decided that we wouldn’t use it. So instead we built a SCORM-free LMS that handled rich media and could give the type of feedback we wanted to both to the delegate and the company.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-scorm&quot;&gt;What is SCORM?&lt;/h3&gt;
+
+&lt;p&gt;SCORM stands for the Sharable Content Object Reference Model, and is currently the most widely used e-learning protocol in the world. SCORM content is elearning which can communicate with a SCORM Learning Management System.
+If an LMS is compliant with the SCORM standard, then it can play most SCORM content, and most SCORM content can be played in any SCORM-compliant LMS. This interoperability allows for good communications between the elearning courses and the LMS so that reports can be produced on how a student is doing.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-is-that-not-good-enough&quot;&gt;Why is that not good enough?&lt;/h3&gt;
+
+&lt;p&gt;The problem for most organisations was stated simply by Megan Bowe at the start of her workshop: that there are only four things that SCORM can tell us…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Completion - did the student finish the course&lt;/li&gt;
+  &lt;li&gt;Duration - how long did it take them&lt;/li&gt;
+  &lt;li&gt;Pass/Fail - did they meet the pass mark&lt;/li&gt;
+  &lt;li&gt;Score - what score did they get&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This means that while we can track course completion and report on the score, any learning methodology that isn’t facilitated through testing cannot be tracked or reported on using SCORM. If we want to track education and we do not want to do it manually we need to have a system that supports our education methodology of choice and few educators today think that getting a student to achieve a pass rate in an online course is the only learner interaction that is important. If we are designing a standard for the future we need a means of supporting multiple learning methods across multiple platforms to gain wide adoption.
+In education today there are more learning methods we need to support that can’t be tracked with the four basic SCORM functions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Blended Learning&lt;/li&gt;
+  &lt;li&gt;Social learning&lt;/li&gt;
+  &lt;li&gt;Informal Learning&lt;/li&gt;
+  &lt;li&gt;Off-line learning&lt;/li&gt;
+  &lt;li&gt;Team learning&lt;/li&gt;
+  &lt;li&gt;Adaptive learning&lt;/li&gt;
+  &lt;li&gt;Simulations&lt;/li&gt;
+  &lt;li&gt;Serious games&lt;/li&gt;
+  &lt;li&gt;Mobile applications&lt;/li&gt;
+  &lt;li&gt;Transitions from device to device&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many of these learning methods our team wanted to support, simulations being the first on the list for me, and specifically using simulations for testing. At the time we had recently completed development of a series of simulations for a customer and had to make them SCORM compliant to host on their LMS. We found it difficult to create effective multi-branching simulations where the user can navigate through an application, with just a pass/fail option to measure a students ability.
+The SCORM API supports only the following messages between an learning course and an LMS&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Initialize( “” )&lt;/li&gt;
+  &lt;li&gt;Terminate( “” )&lt;/li&gt;
+  &lt;li&gt;GetValue()&lt;/li&gt;
+  &lt;li&gt;SetValue()&lt;/li&gt;
+  &lt;li&gt;Commit( “” )&lt;/li&gt;
+  &lt;li&gt;GetLastError()&lt;/li&gt;
+  &lt;li&gt;GetErrorString()&lt;/li&gt;
+  &lt;li&gt;GetDiagnostic()&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This essentially means that outside of the communications protocol messages we can only “get” and “set” specific predefined values.
+If we look at the available interactions within the standard we can start to see why elearning tests are all the same as we can only support the following:
+cmi.interactions.n.type ()
+true-false
+multi-choice
+fill-in
+long-fill-in
+matching
+performance
+sequencing
+likert
+numeric
+As educators do we think that these as the only interactions possible are effective, and are these actually effective means of testing?
+Additional complaints&lt;/p&gt;
+
+&lt;p&gt;SCORM is a very complex format and notoriously difficult to implement. It is a lot of work for LMS vendors to build into their systems and is far too complex for many courseware developers to use. 10 years after the release of SCORM 2004, 75% of all learning is still published at the earlier SCORM 1.2 version. SCORM 2004 had some great improvements over 1.2, like knowing which questions went with which response, but was too complex to fully implement.
+It is  difficult to edit the content once published and will need to be re-authored and redeployed.
+Shared Content Objects are not so easily “sharable”, so if the same content is to used in more than one course you need to have multiple copies of the files.
+As SCORM needs JavaScript in a web browser to function so it is Inherently insecure and relatively easy to hack, someone with a simple script can trick an LMS into thinking that a course has been completed.
+SCORM stores the learning interaction data, including the answers, in the web browser cache.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;A browser only technology gives severe limitations to today’s student in an interconnected world. Multiple platforms, new learning methods, a greater realisation of the importance of informal learning, social learning and the growth of gamification means we need a simpler more flexible platform to support education into the 21st century
+Is the new Tin Can standard the answer to these problems? I’ll cover that in my next article.&lt;/p&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rustici Software’s &lt;a href=&quot;http://tincanapi.com/scorm-vs-the-tin-can-api/&quot;&gt;page&lt;/a&gt; on SCORM vs Tin Can&lt;/li&gt;
+  &lt;li&gt;Why SCORM 2004 Failed &amp;amp; what that means for &lt;a href=&quot;http://www.efrontlearning.net/blog/2013/04/why-scorm-2004-failed-what-that-means-for-tin-can.html&quot;&gt;Tin Can 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rustici SCORM Stats: Then and Now &lt;a href=&quot;http://scorm.com/blog/2011/08/scorm-stats-then-and-now/&quot;&gt;article&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rustici SCORM Stats &lt;a href=&quot;http://scorm.com/scorm-stats/&quot;&gt;article&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;post-meta&quot;&gt;
+&lt;br /&gt;
+&lt;ol&gt;
+&lt;li&gt;An API is an application programming interface which allows computer applications to communicate with each other.  ↩&lt;/li&gt;
+&lt;li&gt;Advanced Distributed Learning (ADL) is the product of the ADL Initiative, established in 1997 by the “US Department of Defense (DoD) Office of the Under Secretary of Defense for Personnel and Readiness” (OUSD P&amp;amp;R) to standardize and modernize training and education management and delivery&lt;/li&gt;
+
+&lt;/ol&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2016/01/02/scorm-preventing-education.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/01/02/scorm-preventing-education.html</guid>
+        
+        <category>tracking</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

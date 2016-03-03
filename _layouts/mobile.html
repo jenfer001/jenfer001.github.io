@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+	<div class="container-fluid">
+	<div class="spacer"></div>
+	<div class="row-fluid">
+    	<div class="span8">
+
+        	{{ content }}
+        </div>
+
+      	<div class="span2 leftdiv">
+      	<ul class="tags">
+      			{% for node in site.pages %}
+      			{% if node.group == "servs" %}
+      				<li class="active single"><a href="{{node.url}}">{{node.title}}</a></li>
+      			{% endif %}
+      			{% endfor %}
+		</ul>
+  		</div>
+	</div>
+	</div>
+
+      
+      	
+  </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+
+</html>
