@@ -1,32 +1,8 @@
 ---
-layout: default
+layout: articles_page
 title: Articles
 permalink: /articles/
 group: navigation
 ---
 
-<ul class="posts">  
-	{% for post in site.posts %}  
-	   <li class="nav"> 
-	   <h3><a href="{{ BASE_PATH }}{{ post.url }}">  
-		   {{ post.title }}</a></h3>
-		   <div class="post-meta">
-		   <i class="fa fa-user"></i>
-		   {{ post.author }} <span class="liner"></span>
-		   <i class="fa fa-calendar"></i>
-		   {{ post.date | date_to_string }} <span class="liner"></span>
-		   {% for tags in post.tags %}
-		   <i class="fa fa-tag"></i>
-    		<span>{{ tags }}</span>
-  			{% endfor %}
-		   </div>       
-	   </li> 
-	   <span><img class="f_left" src="{{ post.image }}" width="100px"/>
-	   {{ post.content | strip_html | truncatewords: 50 }} </span>
-	   <div class="spacer"></div>
-	   <a href=""><span class="read_more">read more...</span></a>
-	   <div class="spacer"></div>
-
-	{% endfor %}  
-</ul>
 

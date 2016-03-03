@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Creating Education for Mobile
+title: Got an app for that?
 author: Gary Bolton
 tag: [mobile]
+group: articles
 ---
-## Got an app for that?
 
 In 2016 Ericsson ITM students will see the launch of the SuccessFactors app – the mobile version of ITM - and with it a whole new way to access lots of great eLearning content…oh wait that’s not actually true…let’s rewind a little! 
 

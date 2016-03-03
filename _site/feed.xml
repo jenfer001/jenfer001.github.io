@@ -6,15 +6,15 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Mar 2016 12:13:08 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Mar 2016 12:13:08 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Mar 2016 14:55:56 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:55:56 +0000</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
         <title>Guiding Principles for Successful eLearning Content</title>
         <description>&lt;p&gt;In eLearning, content is king! Whether your eLearning content is scripted for narration or on-screen text, content is at its best when it is well-structured with concise, honed messaging for the target audience. Here are some guiding principles for developing successful eLearning course content.&lt;/p&gt;
 
-&lt;h2 id=&quot;consider-the-information-architecture&quot;&gt;1.	Consider the Information Architecture&lt;/h2&gt;
+&lt;h3 id=&quot;consider-the-information-architecture&quot;&gt;1.	Consider the Information Architecture&lt;/h3&gt;
 &lt;p&gt;If you are tasked with developing content for a Sales Overview or Technical Overview course you will be provided with a course content template. This template has been developed following a needs analysis of what our sales people need to know. Follow the content guidelines within the notes section of each slide, as this will ensure the following:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -26,13 +26,13 @@
 
 &lt;p&gt;Good information architecture also contributes to a great user experience for our learner. For example, if our learner wants to know about ‘Business Benefits’, they can open the course and navigate directly to that asset title to view exactly the information they are looking for.&lt;/p&gt;
 
-&lt;h2 id=&quot;hone-your-messaging&quot;&gt;2.	Hone Your Messaging&lt;/h2&gt;
+&lt;h3 id=&quot;hone-your-messaging&quot;&gt;2.	Hone Your Messaging&lt;/h3&gt;
 &lt;p&gt;Hone your messaging and make it concise. The learner will not be able to retain all of the information provided within a single sitting of the course. Focus on the core messages you want to communicate. In eLearning less is more!&lt;/p&gt;
 
-&lt;h2 id=&quot;avoid-communication-conflicts&quot;&gt;3.	Avoid Communication Conflicts&lt;/h2&gt;
+&lt;h3 id=&quot;avoid-communication-conflicts&quot;&gt;3.	Avoid Communication Conflicts&lt;/h3&gt;
 &lt;p&gt;A common problem found in eLearning is communication conflict. This occurs when the onscreen text/graphics show one thing, but the narration discusses something different. This simple conflict of information creates cognitive overload for our learner, as their mind grapples to understand both sets of information! As a rule of thumb for eLearning, the visual graphics or text should always follow the narration.&lt;/p&gt;
 
-&lt;h2 id=&quot;put-key-messaging-in-course-test-questions&quot;&gt;4.	Put Key Messaging in Course Test Questions&lt;/h2&gt;
+&lt;h3 id=&quot;put-key-messaging-in-course-test-questions&quot;&gt;4.	Put Key Messaging in Course Test Questions&lt;/h3&gt;
 &lt;p&gt;When developing course test questions, you should aim to provide a broad set that draws upon the key messaging from the course. It is useful to think of the course test as an opportunity to reiterate and help embed key information from the course. Here are some examples:&lt;/p&gt;
 
 &lt;p&gt;Revenue Manager is a convergent, end-to-end charging and billing system designed using architectural principles that embrace the new business models of the Networked Society.&lt;/p&gt;
@@ -62,23 +62,21 @@
   &lt;li&gt;CMO&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
 &lt;p&gt;Developing eLearning content based upon these principles takes time to get right. But these efforts will add up to form a valuable eLearning course that features well-structured and concise messaging for your target audience.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/2016/01/12/successful-elearning.html</link>
         <guid isPermaLink="true">http://yourdomain.com/2016/01/12/successful-elearning.html</guid>
         
-        <category>instructional_design</category>
+        <category>education</category>
         
         
       </item>
     
       <item>
-        <title>Creating Education for Mobile</title>
-        <description>&lt;h2 id=&quot;got-an-app-for-that&quot;&gt;Got an app for that?&lt;/h2&gt;
-
-&lt;p&gt;In 2016 Ericsson ITM students will see the launch of the SuccessFactors app – the mobile version of ITM - and with it a whole new way to access lots of great eLearning content…oh wait that’s not actually true…let’s rewind a little!&lt;/p&gt;
+        <title>Got an app for that?</title>
+        <description>&lt;p&gt;In 2016 Ericsson ITM students will see the launch of the SuccessFactors app – the mobile version of ITM - and with it a whole new way to access lots of great eLearning content…oh wait that’s not actually true…let’s rewind a little!&lt;/p&gt;
 
 &lt;p&gt;Whilst ITM offers hundreds (and maybe thousands of courses if you include the Skillsoft library) there aren’t many internally developed courses that will be available when the app is launched.  This is because it is actually quite difficult to take your traditional desktop courses (flash-based, fixed-size, bandwidth-hungry) and make them also play perfectly on a tablets or smartphone.&lt;/p&gt;
 
@@ -112,7 +110,7 @@
 
 &lt;p&gt;While the new software will still be capable of producing swfs, we expect the new tool to be a more feature rich version of the current Adobe Edge Animate product, a product with firm roots in web standards and html5 outputs.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-does-this-mean-for-e-learning-development&quot;&gt;What does this mean for e-learning development?&lt;/h2&gt;
+&lt;h3 id=&quot;what-does-this-mean-for-e-learning-development&quot;&gt;What does this mean for e-learning development?&lt;/h3&gt;
 
 &lt;p&gt;E-Learning and Flash have always been best buddies, while web developers quietly relegated Flash to the nostalgia section of the internet, e-learning developers clung on to the feature rich, timeline based production environment, in part because of a lack of alternative options. Particularly with major rapid development tools slow to catch on to the changing standards, Flash development within e-learning was the norm for much longer than in other parts of the web.&lt;/p&gt;
 
@@ -180,19 +178,19 @@ Playing the Game&lt;/p&gt;
 The Tin Can API is a new protocol designed to record a student’s learning experiences and is set to replace the current standard, SCORM, which is used to report learner scores to a Learning Mangement System. Tin Can 1.0 was released on 26th April 2013 and was designed to change the way we record education. Megan Bowe is a strategist with Rustici software, the company who was awarded a grant by ADL [2] to develop the Tin Can API specification.
 Before getting into “Tin Can - the Experience API”, Megan started her lecture by outlining the limitations of SCORM, a topic I am more than familiar with!&lt;/p&gt;
 
-&lt;h4 id=&quot;roll-your-own&quot;&gt;Roll Your Own&lt;/h4&gt;
+&lt;h3 id=&quot;roll-your-own&quot;&gt;Roll Your Own&lt;/h3&gt;
 
 &lt;p&gt;I have been working with eLearning development and learning management systems for a large part of my career, and when it came time to choose a new LMS a couple of years ago, I was unable to find one that both met our immediate needs and was also flexible enough to develop new features quickly as we needed them. I also took the decision that the license fees which we would pay to a company for a suitable LMS could be better spent on a full-time developer who could build exactly what we needed.
 So we decided to build our own.
 One of the early design discussions was what role SCORM would play in our new LMS. We quickly came to the decision that all content would be created by our team and we wouldn’t ever be purchasing any off-the-shelf content. We also realised that the SCORM standard severely limited our possibilities with regards to interactivity and didn’t really give us the level of feedback we needed.
 So we decided that we wouldn’t use it. So instead we built a SCORM-free LMS that handled rich media and could give the type of feedback we wanted to both to the delegate and the company.&lt;/p&gt;
 
-&lt;h4 id=&quot;what-is-scorm&quot;&gt;What is SCORM?&lt;/h4&gt;
+&lt;h3 id=&quot;what-is-scorm&quot;&gt;What is SCORM?&lt;/h3&gt;
 
 &lt;p&gt;SCORM stands for the Sharable Content Object Reference Model, and is currently the most widely used e-learning protocol in the world. SCORM content is elearning which can communicate with a SCORM Learning Management System.
 If an LMS is compliant with the SCORM standard, then it can play most SCORM content, and most SCORM content can be played in any SCORM-compliant LMS. This interoperability allows for good communications between the elearning courses and the LMS so that reports can be produced on how a student is doing.&lt;/p&gt;
 
-&lt;h4 id=&quot;why-is-that-not-good-enough&quot;&gt;Why is that not good enough?&lt;/h4&gt;
+&lt;h3 id=&quot;why-is-that-not-good-enough&quot;&gt;Why is that not good enough?&lt;/h3&gt;
 
 &lt;p&gt;The problem for most organisations was stated simply by Megan Bowe at the start of her workshop: that there are only four things that SCORM can tell us…&lt;/p&gt;
 
@@ -254,12 +252,12 @@ Shared Content Objects are not so easily “sharable”, so if the same content 
 As SCORM needs JavaScript in a web browser to function so it is Inherently insecure and relatively easy to hack, someone with a simple script can trick an LMS into thinking that a course has been completed.
 SCORM stores the learning interaction data, including the answers, in the web browser cache.&lt;/p&gt;
 
-&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
 
 &lt;p&gt;A browser only technology gives severe limitations to today’s student in an interconnected world. Multiple platforms, new learning methods, a greater realisation of the importance of informal learning, social learning and the growth of gamification means we need a simpler more flexible platform to support education into the 21st century
 Is the new Tin Can standard the answer to these problems? I’ll cover that in my next article.&lt;/p&gt;
 
-&lt;h4 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h4&gt;
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Rustici Software’s &lt;a href=&quot;http://tincanapi.com/scorm-vs-the-tin-can-api/&quot;&gt;page&lt;/a&gt; on SCORM vs Tin Can&lt;/li&gt;
@@ -280,8 +278,6 @@ Is the new Tin Can standard the answer to these problems? I’ll cover that in m
         <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/2016/01/02/scorm-preventing-education.html</link>
         <guid isPermaLink="true">http://yourdomain.com/2016/01/02/scorm-preventing-education.html</guid>
-        
-        <category>scorm</category>
         
         <category>tracking</category>
         

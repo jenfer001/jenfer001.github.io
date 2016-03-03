@@ -4,6 +4,7 @@ title:  "Serious Games vs Gamification"
 author: Mark Gibson
 tag: [gamification]
 image: ../img/puzzlecube.jpg
+group: articles
 ---
 ![Alt text](../../../../img/puzzlecube.jpg)
 

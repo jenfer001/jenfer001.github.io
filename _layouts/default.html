@@ -22,7 +22,10 @@
 				{% assign t = tag | first %}
 				{% assign posts = tag | last %}
 				{% assign link = t | prepend:'../tag_pages/' %}
-				<li class="list_by_tag"><a href="{{ link }}">{{t | downcase | replace:" ","-" }} ({{ posts | size }})</a></li>
+				{% assign p = tag | first' %}
+				{% assign pic = p | append:'_tiny.jpg' %}
+				{% assign pict = pic | prepend:'../img/' %}
+				<li class="list_by_tag"><a href="{{ link }}"><img class="circular" src="{{ pict }}" /> {{t | downcase | replace:" ","-" }} <span class="post-meta">({{ posts | size }})</span></a></li>
 				{% endfor %}
 			</ul>
   		</div>
